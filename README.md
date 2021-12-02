@@ -88,7 +88,6 @@ Accedemos desde el terminal. Ejemplo:
 
 ```
 cd '/home/jorge/rcssserver-16.0.1'
-
 ```
 
 Ejecutamos lo siguiente:
