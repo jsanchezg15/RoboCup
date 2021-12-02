@@ -119,3 +119,4 @@ cd '/usr/local/bin'
 ./rcsoccersim
 ```
 
+![image](https://user-images.githubusercontent.com/43110966/144472020-b3e47e28-6ee2-469c-9a1e-eb6952f8ba39.png)
