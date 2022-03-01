@@ -7,7 +7,7 @@ public class Programa {
     
     public static void main(String[] args) {
 
-        System.out.println("Start 4");
+        System.out.println("Start");
 
         Team t1 = new Team("Jorge");
         Team t2 = new Team("Valero");
