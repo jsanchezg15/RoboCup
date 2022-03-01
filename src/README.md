@@ -9,4 +9,4 @@ javac Programa.java
 java Programa
 ```
 
-El servidor haber sido lanzado antes de ejecutar el programa.
+El rcssserver debe haber sido lanzado antes de ejecutar el programa.
