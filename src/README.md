@@ -2,6 +2,11 @@
 
 Para poder ejecutar los dos equipos compilar y ejecutar el archivo Programa.java
 
-"""hola"""
+```
+javac Programa.java
+```
+```
+java Programa
+```
 
 El servidor haber sido lanzado antes de ejecutar el programa.
