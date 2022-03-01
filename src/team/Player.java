@@ -29,7 +29,7 @@ public class Player extends Thread {
 			this.init_cmd  = "(init " + team_name + ")";
 			this.play_mode = "before_kick_off";
 			this.num       = num;
-			this.file      = new FileWriter("./src/dataFiles/data " + this.team_name + this.num + ".txt");			
+			this.file      = new FileWriter(this.team_name + " " + this.num + ".txt");			
 
 			this.PORT = 6000;
 			this.HOST = InetAddress.getByName("127.0.0.1");
