@@ -1,6 +1,6 @@
 # Red Neuronal
 
-La clase NeuralNetwork permite crear una red neuronal y añadirle las capas que se quiera.
+La clase Network permite crear una red neuronal y añadirle las capas que se quiera.
 
 Para crear un objeto de este tipo se debe especificar en el constructor el numero de inputs que va a tener la red.
 
