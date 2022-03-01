@@ -10,4 +10,11 @@ La red se puede entrenar mediante backpropagation especificando los inputs intro
 
 Para probar la creación y entrenamiento de una red neuronal compilar y ejecutar con java el archivo Program.java
 
+```
+javac Program.java
+```
+```
+java Program
+```
+
 También se puede guardar la red neuronal serializada en un archivo para poder reconstruirla con el constructor indicando la ruta del archivo.
