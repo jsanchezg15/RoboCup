@@ -25,6 +25,7 @@ sudo apt install build-essential
 
 ```
 sudo apt-get install -y make
+sudo apt-get install -y pkg-config
 ```
 
 #### boost
